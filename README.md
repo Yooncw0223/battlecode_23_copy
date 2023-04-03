@@ -1,5 +1,8 @@
 # Battlecode 2023 Scaffold
 
+# NOTE: this is a local copy of the team repo for Battlecode 2023 (Team-based competition at MIT). My work is mainly in this [file](https://github.com/Yooncw0223/battlecode_23_copy/blob/main/src/CYPlayer/PathFinding.java) (where I worked on path finding using BugNav and/or AStar algorithm—with huge help from this [article](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)).
+
+
 This is the Battlecode 2023 scaffold, containing an `examplefuncsplayer`. Read https://play.battlecode.org/bc23/getting-started!
 
 ### Project Structure
